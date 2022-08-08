@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2022/08/08/screen-shot-2022-08-08-at-23-41-08.png"
 layout: landing-page
-heading: Hello World
+heading: Vihara Karangdjati
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,11 +16,11 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: this is a temple website
-textline: |
-  Belkirk College of Engineering
+sub_heading: This is a temple website
+textline: |-
+  Vihara Karangdjati
 
-  Ora et Labora
+  Description Here
 hero_button:
   text: Learn more
   href: "/about"
