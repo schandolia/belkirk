@@ -8,22 +8,11 @@ partners:
 - "/uploads/2022/08/08/magabudhilogo2020-1.png"
 - "/uploads/2022/08/08/image005.png"
 - "/uploads/2022/08/08/a__2_-removebg-preview.png"
-services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: This is a temple website
-textline: |-
-  Vihara Karangdjati
-
-  Description Here
+services: []
+sub_heading: ''
+textline: Vihara Karangdjati Yogyakarta di bawah binaan Sangha Theravada Indonesia
 hero_button:
-  text: Learn more
+  text: Tentang VKD
   href: "/about"
 show_news: true
 show_staff: false
