@@ -6,9 +6,9 @@ banner_image: "/uploads/2022/08/09/2021-10-02.jpeg"
 slug: kursus-dasar-agama-buddha
 
 ---
-# Jadwal KDAB
+# **Jadwal KDAB**
 
-## Batch 2
+## **Batch 2**
 
 **Mulai**: Sabtu, 16 Juli 2022
 
@@ -20,7 +20,7 @@ Kelas diadakan setiap hari Sabtu, pukul 18.00 WIB
 
 Whatsapp dengan format: KDAB#Batch2 (spasi) Nama (spasi) Alamat
 
-### Materi
+### **Materi**
 
 1. Selayang pandang agama Buddha (pengantar)
 2. Riwayat hidup Buddha Gautama
@@ -31,7 +31,7 @@ Whatsapp dengan format: KDAB#Batch2 (spasi) Nama (spasi) Alamat
 7. Ritual Buddhis
 8. Tata organisasi agama Buddha Indonesia (KBTI)
 
-### Syarat
+### **Syarat**
 
 * Mengikuti seluruh kursus
 * Memakai pakaian rapi & sopan (atasan berkerah & berlengan, bawahan panjang)
