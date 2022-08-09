@@ -19,14 +19,14 @@ sections:
   - page
 - type: directory
   path: _people
-  label: People
+  label: Dayakasabha
   create: all
   match: "*"
   templates:
   - person
 - type: directory
   path: _projects
-  label: Projects
+  label: Kegiatan
   create: all
   match: "*"
   templates:
