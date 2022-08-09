@@ -2,7 +2,7 @@
 tags: []
 title: Dhammayatra
 sub_heading: Kunjungan religi terbuka untuk umum
-banner_image: "/uploads/2022/08/09/img-20220719-wa0061-2-1024x682.jpeg"
+banner_image: "/uploads/2022/08/09/img-20220719-wa0061-2-1024x682-1.jpeg"
 slug: dhammayatra
 
 ---
