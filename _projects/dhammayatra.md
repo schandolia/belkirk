@@ -18,6 +18,10 @@ Kegiatan dhammayatra terdiri dari:
 
 Untuk mengikuti kegiatan dhammayatra, peserta harus mendaftar dengan menghubungi sekretariat melalui whatsapp. Untuk mendaftar silakan klik [di sini](https://api.whatsapp.com/send?phone=6281930030066&text=hubungi%20kami "di sini").
 
+Peserta dhammayatra mengenakan pakaian atasan putih berlengan, bawahan panjang warna gelap.
+
+![](/uploads/2022/08/09/img-20220719-wa0061-2-1024x682.jpeg)
+
 ## **Jadwal Dhammayatra 2022**
 
 ### **Juli 2022**
@@ -37,6 +41,8 @@ Untuk mengikuti kegiatan dhammayatra, peserta harus mendaftar dengan menghubungi
 **Lokasi**: [Candi Sari](https://www.google.com/maps/place/Candi+Sari/@-7.7615576,110.4720864,17z/data=!3m1!4b1!4m5!3m4!1s0x2e7a5af7df5430e3:0x6c8161c1354f3ac7!8m2!3d-7.7615257!4d110.4743236 "Candi Sari")
 
 **Waktu**: Minggu, 20 Februari 2022, pukul 10.00-13.00 WIB
+
+![](/uploads/2022/08/09/download-3.jpeg)
 
 ## **Jadwal Dhammayatra 2021**
 
