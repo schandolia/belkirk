@@ -8,7 +8,13 @@ partners:
 - "/uploads/2022/08/08/magabudhilogo2020-1.png"
 - "/uploads/2022/08/08/image005.png"
 - "/uploads/2022/08/08/a__2_-removebg-preview.png"
-services: []
+services:
+- heading: Kegiatan Lain
+  description: Dhammayatra 2 bulan sekali. KDAB 3 bulan sekali
+  icon: "/uploads/2022/08/09/164179-pink-lotus-flower-pic-free-photo.png"
+- heading: Kegiatan Rutin
+  icon: "/uploads/2022/08/09/164179-pink-lotus-flower-pic-free-photo.png"
+  description: 'Kegiatan rutin mingguan: Puja Bakti, Meditasi, & Sekolah Minggu'
 sub_heading: ''
 textline: Vihara Karangdjati Yogyakarta di bawah binaan Sangha Theravada Indonesia
 hero_button:
