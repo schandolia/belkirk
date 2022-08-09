@@ -1,5 +1,5 @@
 ---
-label: person
+label: Dayakasabha
 hide_body: false
 fields:
 - type: text
@@ -14,27 +14,11 @@ fields:
   label: Thumbnail
   name: thumbnail
   description: 'Square image, Max 500 pixels '
-- name: role
-  label: Departments
-  type: list
-  hidden: true
-  default: staff
-  description: ''
-- name: email
-  label: Email
-  type: text
-  hidden: false
-  default: ''
-- name: linkedin
-  label: Linkedin
-  type: text
-  hidden: false
-  default: ''
 - name: layout
   label: Layout
   type: text
   hidden: true
-  default: person
+  default: Dayakasabha
 pages:
 - _people/upa.pmd.totok-tejamano.md
 - _people/upa.sobhanatejo-dr-hasto-bramantyo-ma.md
