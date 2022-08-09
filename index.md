@@ -12,12 +12,12 @@ services:
 - heading: Puja Bakti
   description: Setiap hari Rabu, pukul 19.00 WIB
   icon: "/uploads/2022/08/09/1024px-dharma_wheel-svg.png"
-- heading: Kegiatan Rutin
-  icon: "/uploads/2022/08/09/1024px-dharma_wheel-svg.png"
-  description: 'Kegiatan rutin mingguan: Puja Bakti, Meditasi, & Sekolah Minggu'
-- heading: Kegiatan Lain
-  description: Dhammayatra 2 bulan sekali. KDAB 3 bulan sekali
+- heading: Meditasi Umum
   icon: "/uploads/2022/08/09/164179-pink-lotus-flower-pic-free-photo.png"
+  description: Setiap hari Jumat, pukul 19.30 WIB
+- heading: Sekolah Minggu
+  description: Setiap hari Minggu, pukul 09.00 WIB
+  icon: "/uploads/2022/08/09/1024px-dharma_wheel-svg.png"
 sub_heading: Yogyakarta
 textline: Vihara Karangdjati Yogyakarta di bawah binaan Sangha Theravada Indonesia
 hero_button:
