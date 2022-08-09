@@ -4,7 +4,6 @@ title: Kursus Dasar Agama Buddha
 sub_heading: Program KDAB terbuka untuk umum
 banner_image: "/uploads/2022/08/09/2021-10-02.jpeg"
 slug: kursus-dasar-agama-buddha
-published: false
 
 ---
 # Jadwal KDAB
