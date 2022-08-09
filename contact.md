@@ -22,4 +22,4 @@ menu:
 
 ## Lokasi
 
-Jl. Monjali No.78, Gemawang, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta 55284
+[Jl. Monjali No.78, Gemawang, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta 55284](https://www.google.com/maps/place/Vih%C4%81ra+Karangdjati/@-7.7596848,110.3688365,15z/data=!4m2!3m1!1s0x0:0xd9da571478e63932?sa=X&ved=2ahUKEwj9wvfo4bj5AhWo3nMBHYhVDAoQ_BJ6BAhKEAU "Monjali St No.78, Gemawang, Sinduadi, Mlati, Sleman Regency, Special Region of Yogyakarta 55284")
