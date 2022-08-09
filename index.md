@@ -9,6 +9,9 @@ partners:
 - "/uploads/2022/08/08/image005.png"
 - "/uploads/2022/08/08/a__2_-removebg-preview.png"
 services:
+- heading: Puja Bakti
+  description: Setiap hari Rabu, pukul 19.00 WIB
+  icon: "/uploads/2022/08/09/1024px-dharma_wheel-svg.png"
 - heading: Kegiatan Rutin
   icon: "/uploads/2022/08/09/1024px-dharma_wheel-svg.png"
   description: 'Kegiatan rutin mingguan: Puja Bakti, Meditasi, & Sekolah Minggu'
