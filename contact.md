@@ -1,22 +1,25 @@
 ---
 title: Kontak
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2018/12/07/compass.jpg"
-heading: Contact Belkirk College
+banner_image: "/uploads/2022/08/09/download-1.jpeg"
+heading: Kontak Vihara Karangdjati
 publish_date: '2017-12-01T04:00:00.000+00:00'
-show_staff: true
+show_staff: false
+hero_button:
+  text: Whatsapp
+  href: https://api.whatsapp.com/send?phone=6281930030066&text=hubungi%20kami
 menu:
   navigation:
     identifier: _contact
     weight: 5
 
 ---
-## Hours of Operation
-Belkirk College of Engineering is available:
+## Jadwal Kegiatan Rutin
 
-- **Monday-Friday**, 8:00am to 6:00pm EST
-- **Saturdays**, 8:00am to 5:00pm EST
-- **Sundays**, 9:00am to 12:00pm EST
+* **Puja Bakti**: Rabu, pukul 19.00 WIB
+* **Meditasi Umum:** Jumat, pukul 19.30 WIB
+* **Sekolah Minggu**: Minggu, pukul 09.00 WIB
 
-## Contact Information
-{% include address.html %}
+## Lokasi
+
+Jl. Monjali No.78, Gemawang, Sinduadi, Mlati, Sleman, Daerah Istimewa Yogyakarta 55284
