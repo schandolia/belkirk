@@ -1,13 +1,14 @@
 ---
 title: Kontak
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2022/08/09/download-1.jpeg"
+banner_image: "/uploads/2022/08/09/2021-10-02.jpeg"
 heading: Kontak Vihara Karangdjati
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: false
 hero_button:
   text: Whatsapp
   href: https://api.whatsapp.com/send?phone=6281930030066&text=hubungi%20kami
+services: []
 menu:
   navigation:
     identifier: _contact
