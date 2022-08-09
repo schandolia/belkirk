@@ -27,5 +27,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/dhammayatra.md
 - _projects/kegiatan-rutin.md
 - _projects/kursus-dasar-agama-buddha.md
