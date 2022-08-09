@@ -14,12 +14,12 @@ partners:
 - "/uploads/2022/08/08/image005.png"
 - "/uploads/2022/08/08/a__2_-removebg-preview.png"
 menu:
-  footer:
-    identifier: _about
-    weight: 1
   navigation:
     identifier: _about
     weight: 2
+  footer:
+    identifier: _about
+    weight: 1
 
 ---
 Sejarah Vihara Karangdjati Yogyakarta

@@ -12,6 +12,13 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    weight: 6
+    title: Partisipasi Dana
+  footer:
+    weight: 4
+    title: Partisipasi Dana
 
 ---
 ## Partisipasi Dana
