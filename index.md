@@ -15,7 +15,7 @@ services:
 - heading: Kegiatan Rutin
   icon: "/uploads/2022/08/09/164179-pink-lotus-flower-pic-free-photo.png"
   description: 'Kegiatan rutin mingguan: Puja Bakti, Meditasi, & Sekolah Minggu'
-sub_heading: ''
+sub_heading: Yogyakarta
 textline: Vihara Karangdjati Yogyakarta di bawah binaan Sangha Theravada Indonesia
 hero_button:
   text: Tentang VKD
