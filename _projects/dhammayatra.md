@@ -18,7 +18,7 @@ Kegiatan dhammayatra terdiri dari:
 
 Untuk mengikuti kegiatan dhammayatra, peserta harus mendaftar dengan menghubungi sekretariat melalui whatsapp. Untuk mendaftar silakan klik [di sini](https://api.whatsapp.com/send?phone=6281930030066&text=hubungi%20kami "di sini").
 
-## Jadwal Dhammayatra 2022
+## **Jadwal Dhammayatra 2022**
 
 ### **Juli 2022**
 
@@ -38,7 +38,7 @@ Untuk mengikuti kegiatan dhammayatra, peserta harus mendaftar dengan menghubungi
 
 **Waktu**: Minggu, 20 Februari 2022, pukul 10.00-13.00 WIB
 
-## Jadwal Dhammayatra 2021
+## **Jadwal Dhammayatra 2021**
 
 ### **November 2021**
 
