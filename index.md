@@ -10,7 +10,7 @@ partners:
 - "/uploads/2022/08/08/a__2_-removebg-preview.png"
 services:
 - heading: Kegiatan Rutin
-  icon: "/uploads/2022/08/09/164179-pink-lotus-flower-pic-free-photo.png"
+  icon: "/uploads/2022/08/09/1024px-dharma_wheel-svg.png"
   description: 'Kegiatan rutin mingguan: Puja Bakti, Meditasi, & Sekolah Minggu'
 - heading: Kegiatan Lain
   description: Dhammayatra 2 bulan sekali. KDAB 3 bulan sekali
