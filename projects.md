@@ -22,6 +22,7 @@ services:
   description: Kursus dasar agama Buddha (KDAB) diadakan setiap 2 bulan dan terbuka
     untuk umum
   icon: "/uploads/2022/08/09/2021-10-02.jpeg"
+show_news: false
 menu:
   navigation:
     identifier: _projects
