@@ -29,3 +29,5 @@ Untuk keamanan bersama, peserta yang ingin mengikuti kegiatan meditasi dimohon u
 Kegiatan sekolah minggu diadakan setiap hari Minggu, pukul 09.00 WIB.
 
 Kegiatan ini ditujukan untuk anak usia 5-18 tahun. Untuk mendaftar silakan klik [di sini](https://api.whatsapp.com/send?phone=6281930030066&text=hubungi%20kami "di sini").
+
+![](/uploads/2022/08/09/screen-shot-2022-08-09-at-10-15-23.png)
