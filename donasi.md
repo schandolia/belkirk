@@ -30,3 +30,5 @@ BCA
 037 662 8889
 
 a.n Yayasan Buddhis Syailendra Karangdjati
+
+Untuk konfirmasi partisipasi dana silakan menghubungi whatsapp sekretariat Vihara Karang Djati melalui [link](https://api.whatsapp.com/send?phone=6281930030066&text=hubungi%20kami "link") ini.
