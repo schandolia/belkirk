@@ -1,24 +1,25 @@
 ---
-heading: ''
-sub_heading: ''
-layout: home
 title: Donasi
+date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2022/08/09/2021-10-02.jpeg"
-hero_button:
-  text: Konfirmasi Donasi
-  href: https://api.whatsapp.com/send?phone=6281930030066&text=hubungi%20kami
-textline: ''
-services: []
-show_news: false
-partners: []
-show_staff: false
+heading: Sejarah & Dayakasabha
+sub_heading: ''
+layout: landing-page
+textline: Vihara Karangdjati Yogyakarta di bawah binaan Sangha Theravada Indonesia
+publish_date: '2017-12-01T04:00:00.000+00:00'
+show_staff: true
+partners:
+- "/uploads/2022/08/08/logo-sti_1.png"
+- "/uploads/2022/08/08/magabudhilogo2020-1.png"
+- "/uploads/2022/08/08/image005.png"
+- "/uploads/2022/08/08/a__2_-removebg-preview.png"
 menu:
   navigation:
-    weight: 6
-    title: Partisipasi Dana
+    identifier: _donasi
+    weight: 2
   footer:
-    weight: 4
-    title: Partisipasi Dana
+    identifier: _donasi
+    weight: 1
 
 ---
 ## Partisipasi Dana
