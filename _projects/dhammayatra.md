@@ -24,6 +24,12 @@ Peserta dhammayatra mengenakan pakaian atasan putih berlengan, bawahan panjang w
 
 ## **Jadwal Dhammayatra 2022**
 
+### **September 2022**
+
+**Lokasi**: [Candi Kalasan](https://www.google.com/maps/place/Kalasan+Temple/@-7.767284,110.4723505,15z/data=!4m2!3m1!1s0x0:0x744e3521829a27c1?sa=X&ved=2ahUKEwicyvPJv8n6AhX6iOYKHQ6-AHIQ_BJ6BQicARAF)
+
+**Waktu**: Minggu, 25 September 2022, pukul 14.00-17.00 WIB
+
 ### **Juli 2022**
 
 **Lokasi**: [Candi Plaosan](https://www.google.com/maps/place/Plaosan+Temple/@-7.7407807,110.5046772,15z/data=!4m2!3m1!1s0x0:0xf2f393c49bd04045?sa=X&ved=2ahUKEwiqg5jhk7n5AhVFBLcAHfKVCXYQ_BJ6BAh9EAU "Candi Plaosan")
