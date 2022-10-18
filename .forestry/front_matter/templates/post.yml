@@ -38,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/turut-samvega-citta-atas-meninggalnya-bhikkhu-silagutto-thera-bikku-adhijayo.md
