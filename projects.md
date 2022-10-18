@@ -26,7 +26,7 @@ show_news: false
 menu:
   navigation:
     identifier: _projects
-    weight: 4
+    weight: 3
   footer:
     identifier: _projects
     url: "/projects/"

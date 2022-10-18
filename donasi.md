@@ -24,7 +24,7 @@ menu:
     weight: 4
   navigation:
     identifier: _donasi
-    weight: 2
+    weight: 5
 
 ---
 Partisipasi dana melalui rekening:
