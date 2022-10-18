@@ -8,9 +8,9 @@ banner_image: "/uploads/2022/10/18/whatsapp-image-2022-10-15-at-21-13-17.jpeg"
 related_posts: []
 
 ---
-**Sabbe Sankhārā Aniccā**
+# **Sabbe Sankhārā Aniccā**
 
-**Turut Samvega Citta atas meninggalnya Bikkhu Silagutto Thera & Bikkhu Adhijayo.**
+## **Turut Samvega Citta atas meninggalnya Bikkhu Silagutto Thera & Bikkhu Adhijayo.**
 
 Semoga jasa-jasa kebajikan beliau mengkondisikan terlahir di alam bahagia hingga terealisasinya Nibbana.
 
