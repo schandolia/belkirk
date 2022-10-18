@@ -16,7 +16,7 @@ partners:
 menu:
   navigation:
     identifier: _about
-    weight: 2
+    weight: 3
   footer:
     identifier: _about
     weight: 1

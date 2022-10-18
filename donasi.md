@@ -21,7 +21,7 @@ show_news: true
 menu:
   footer:
     identifier: _donasi
-    weight: 1
+    weight: 4
   navigation:
     identifier: _donasi
     weight: 2

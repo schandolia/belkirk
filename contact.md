@@ -12,7 +12,7 @@ services: []
 menu:
   navigation:
     identifier: _contact
-    weight: 5
+    weight: 6
 
 ---
 ## Jadwal Kegiatan Rutin
