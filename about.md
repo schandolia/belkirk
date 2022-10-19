@@ -22,9 +22,9 @@ menu:
     weight: 1
 
 ---
-# Sejarah & Visi Vihara Karangdjati Yogyakarta
+# **Sejarah & Visi Vihara Karangdjati Yogyakarta**
 
-## Sejarah Vihara Karangdjati Yogyakarta
+## **Sejarah Vihara Karangdjati Yogyakarta**
 
 Pada tahun 1958 Bhante Jinaputa berkenan menjalankan Vassa di Yogyakarta. Beliau kemudian tinggal di Cetiya Buddha Kirti, Milik Bapak Tjan Tjoen Gie (Gunavarman Boediharjo), sebagai satu-satunya tempat ibadah umat Buddha yang ada di Yogyakarta pada waktu itu.
 
@@ -32,7 +32,7 @@ Atas saran dan hasil diskusi antara Bapak Tjan Tjoen Gie dan Romo Among Pradjart
 
 Bekas Kandang sapi tersebut dibersihkan, dan jadilah tempat vassa bagi Bhante Jinaputa. Selama Bhante Jinaputa tinggal di tempat tersebut, maka dimulailah beberapa diskusi seputar agama Buddha. Karena kebanyakan yang datang adalah orang-orang memang mempunyai latar belakang theosofi, kejawen dan ajaran-ajaran kebatinan yang lain, maka tidaklah sulit untuk berdiskusi tentang ajaran tersebut.
 
-Sejak itu, mulai dikenal lah Buddha Dhamma. Atas persetujuan dari pemilik rumah, Romo Among, maka kegiatan keagamaan pun mulai diadakan. 
+Sejak itu, mulai dikenal lah Buddha Dhamma. Atas persetujuan dari pemilik rumah, Romo Among, maka kegiatan keagamaan pun mulai diadakan.
 
 Bersamaan dengan itu, Romo Among Pardjarto, Bapak Drs. Soeharto Djoyosoempeno, Bapak Tjan Tjoen Gie, Bapak Djoeri Soekisno, Bapak Kho Tjie Hong, Bapak Tan Hok Lay, dan Bapak Krismanto membentuk kesepakatan untuk bersama-sama mengembangkan Buddha Dhamma. Kemampuan beliau berdelapan dalam mengabdi untuk Buddha Dhamma serta semangat yang tak kenal lelah telah melahirkan banyak kemajuan. Mereka kemudian dikenal dengan sebutan “Djoyo 8” (Joyo Wolu).
 
@@ -42,9 +42,9 @@ Kegiatan tersebut tentu saja membutuhkan tempat yang lebih luas. Maka dibuatlah 
 
 Pada tahun 1962, tempat ini dinyatakan secara resmi sebagai Vihara Buddha Karangdjati. Karena semakin banyaknya umat yang datang, serta perlunya penataan secara lebih tertib, maka kemudian dibentuk sekretariat Vihara Karangdjati.
 
-## Visi Vihara Karangdjati Yogyakarta
+## **Visi Vihara Karangdjati Yogyakarta**
 
-> Menjadi rumah pengembangan spiritualitas untuk kebahagiaan bersama.
+> "Menjadi rumah pengembangan spiritualitas untuk kebahagiaan bersama."
 
 **Rumah**: Merujuk pada interaksi yang ada di Vihara Karangdjati yang terbuka bagi siapa saja. Tanpa memandang latar belakang agama, ras, status sosial, gender, ideologi, dan lain sebagainya. Semua adalah satu keluarga.
 
