@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turut Samvega Citta Atas Meninggalnya Bhikkhu Silagutto Thera & Bikku Adhijayo
+title: Turut Samvega Citta Atas Meninggalnya Bhikkhu Silagutto Thera & Bhikkhu Adhijayo
 sub_heading: ''
 date: 2022-10-15 10:00:00 +0000
 tags: []
